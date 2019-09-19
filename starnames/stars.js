@@ -1,5 +1,5 @@
-const stars =
-[["Sirius","Canis Major","-1.44","-16.72"],
+const stars = [
+["Sirius","Canis Major","-1.44","-16.72"],
 ["Canopus","Carina","-0.62","-52.70"],
 ["Arcturus","Boo&#776;tes","-0.05","19.18"],
 ["Rigil Kentaurus","Centaurus","-0.01","-60.83"],
@@ -334,4 +334,5 @@ const stars =
 ["Ogma","Hercules","8.16","38.35"],
 ["Barnard's Star","Ophiuchus","9.54","4.67"],
 ["Proxima Centauri","Centaurus","11.01","-62.68"],
-["Lich","Virgo",">36","12.68"]];
+["Lich","Virgo",">36","12.68"]
+];
