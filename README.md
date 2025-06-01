@@ -1,1 +1,1 @@
-# [EMU Astral Society website](https://astralsociety.org)
+# [EMU Astral Society website](https://astralsociety.github.io)
